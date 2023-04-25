@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x976a99560ba992f89a5c230d88ba1c2e6528db5e",
+  "SCAN_LINK": "https://arbiscan.io/address",
+  "NETWORK": {
+    "NAME": "Fuji Avax",
+    "SYMBOL": "AVAX",
+    "ID": 43113
+  },
+  "NFT_NAME": "Wizard Alantar",
+  "SYMBOL": "WIZARDALANTAR",
+  "MAX_SUPPLY": 150,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
